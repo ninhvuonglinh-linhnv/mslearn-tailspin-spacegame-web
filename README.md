@@ -1,3 +1,5 @@
+# Status Badge
+[![Build Status](https://dev.azure.com/LinhNV7/Space%20Game%20workflow/_apis/build/status/ninhvuonglinh-linhnv.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/LinhNV7/Space%20Game%20workflow/_build/latest?definitionId=19&branchName=master)
 
 # Contributing
 
